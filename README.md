@@ -30,7 +30,7 @@ Performed a WHOIS lookup to gather domain registration information, registrar de
 
 📸 **Screenshot:**
 
-![WHOIS Lookup](images/01-whois.png)
+![WHOIS Lookup](whois.png)
 
 ---
 
@@ -54,7 +54,7 @@ Used NSLookup to resolve the target domain name into its corresponding IP addres
 
 📸 **Screenshot:**
 
-![DNS Lookup](images/02-nslookup.png)
+![DNS Lookup](nslookup.png)
 
 ---
 
@@ -81,7 +81,7 @@ Used WhatWeb to identify technologies, frameworks, CMS platforms, and other comp
 
 📸 **Screenshot:**
 
-![WhatWeb Scan](images/03-whatweb.png)
+![WhatWeb Scan](whatweb.png)
 
 ---
 
@@ -107,7 +107,7 @@ Used cURL to send an HTTP HEAD request and inspect the server response headers.
 
 📸 **Screenshot:**
 
-![HTTP Header Analysis](images/04-curl.png)
+![HTTP Header Analysis](curl-i.png)
 
 ---
 
@@ -131,7 +131,7 @@ Used WAFW00F to identify whether the target website is protected by a Web Applic
 
 📸 **Screenshot:**
 
-![WAF Detection](images/05-wafw00f.png)
+![WAF Detection](wafw00f.png)
 
 ---
 
@@ -159,7 +159,7 @@ Performed DNS enumeration to identify publicly available DNS records associated 
 
 📸 **Screenshot:**
 
-![DNS Enumeration](images/06-dnsrecon.png)
+![DNS Enumeration](dnsrecon.png)
 
 ---
 

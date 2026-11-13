@@ -131,7 +131,7 @@ Used WAFW00F to identify whether the target website is protected by a Web Applic
 
 📸 **Screenshot:**
 
-![WAF Detection](wafw00f.png)
+![WAF Detection](Wafw001.png)
 
 ---
 
